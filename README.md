@@ -1,3 +1,5 @@
+<img width="1280" height="410" alt="b4e371619042d1e80918d09904e90f7d" src="https://github.com/user-attachments/assets/dc7cdbcb-4f36-4cfd-a326-a309608ff26c" />
+
 ##  Tech Stack & Skills
 
 ###  Core & Async
